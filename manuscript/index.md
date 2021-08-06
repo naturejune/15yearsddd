@@ -21,4 +21,4 @@
 - [mel-conway/essay.md](./manuscript/mel-conway/essay.md)
 - [vladik-khononov/essay-1.md](./manuscript/vladik-khononov/essay-1.md)
 - [michiel-overeem/essay.md](./manuscript/michiel-overeem/essay.md)
-- [julie-lerman/essay.m](./manuscript/julie-lerman/essay.md)
+- [julie-lerman/essay.md](./manuscript/julie-lerman/essay.md)
